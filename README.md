@@ -1,6 +1,7 @@
 # RealTImeAnimation
 
 Assignment #04: Interactive Movie with Animated Character
+-----
 Movie Theme: Preconception and ungratefulness
 -----
 
