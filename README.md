@@ -1,11 +1,9 @@
 # RealTImeAnimation
 
-Assignment #04: Interactive Movie with Animated Character
------
-Movie Theme: Preconception and ungratefulness
+Interactive Movie: Preconception and ungratefulness
 -----
 
-## Introduction
+### Introduction
 
 The inspiration for this story comes from the escalating contradiction between doctors and patients since the outbreak of coronavirus. Doctors and nurses did their best to treat the patients, but some still blame medical staff for curing themselves completely.
 
@@ -15,7 +13,7 @@ The realization of the project is based on the unreal engine, using sequencer to
 
 
 
-## Assets and Links
+### Assets and Links
 
 Free scene material and characters: Epic games
 
