@@ -1,4 +1,4 @@
-# RealTImeAnimation
+# RealTimeAnimation
 
 Interactive Movie: Preconception and ungratefulness
 -----
